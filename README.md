@@ -36,8 +36,8 @@ movimento-ia/
 
 ## Links
 
-- Instagram: (a definir)
-- GitHub: (a definir)
+- Instagram: [@arthurcomclaude](https://instagram.com/arthurcomclaude)
+- GitHub: [Typebotkings/arthurcomclaude](https://github.com/Typebotkings/arthurcomclaude)
 
 ## Agentes Envolvidos
 

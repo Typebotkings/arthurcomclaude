@@ -42,10 +42,15 @@ Nome ainda a definir — próxima etapa.
 - SCAMPER como engine de geração de ângulos
 
 ### Próximos Passos
-- [ ] Finalizar identidade (nome, bio, alter ego)
-- [ ] Escrever manifesto completo
-- [ ] Arquitetura do movimento com Ganz
-- [ ] Roteiro do vídeo #1
-- [ ] Setup GitHub
+- [x] Manifesto v0.2 escrito
+- [x] Arquitetura do movimento com Ganz estruturada
+- [x] Posts #001, #002, #003 mapeados
+- [x] GitHub criado: https://github.com/Typebotkings/arthurcomclaude
+- [x] Instagram criado: @arthurcomclaude
+- [ ] Nome da conta — decidido: @arthurcomclaude
+- [ ] Bio do Instagram — versão final escolhida
+- [ ] Cena específica da virada (Story of Self)
+- [ ] Roteiro do vídeo #1 gravado
+- [ ] Posts #004 e #005 estruturados
 
 ---
