@@ -36,17 +36,12 @@ A direção de auto-ironia + aspiração é a mais poderosa para o movimento. Cr
 
 ## Bio do Instagram (máx. 150 caracteres)
 
-**Versão 1 — Crença:**
-> Não precisa saber programar. Precisa saber pensar.
-> Provando isso ao vivo. Do negativo ao rico. Com IA.
-
-**Versão 2 — Jornada:**
-> Engenheiro. Quebrado 3x. Recomeçando com IA e um sonho.
-> Construindo ao vivo o que a maioria só sonha.
-
-**Versão 3 — Convite:**
-> Você tem a ideia. A IA tem a execução.
-> Te mostro como. Ao vivo. Sem filtro.
+**✅ VERSÃO FINAL (escolhida por Arthur):**
+```
+Saindo das dívidas com um Claude e um sonho
+Autodidata sem programação construindo coisas
+```
+96 caracteres. Direto, real, sem exagero.
 
 ---
 

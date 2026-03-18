@@ -1,4 +1,4 @@
-# Post #003 — A Primeira Criação
+# Post #003 — O Sistema de Fardamento
 
 **Pilar:** Construindo ao Vivo
 **Formato:** Vídeo (screen + câmera)
@@ -6,44 +6,51 @@
 ---
 
 ## Ideia Central
-Mostrar uma ferramenta/solução real que você já criou com IA — sem saber programar. A prova de que a crença central funciona.
+Criei um sistema de gestão de pedidos de kits de fardamento pra minha mulher — sem saber programar. Você cria o kit por função, estima quantos funcionários e a proporção homem/mulher, e o sistema gera o pedido completo.
+
+---
+
+## Por que esse post é forte
+- Resolve um problema real e específico (não hipotético)
+- Foi feito POR AMOR — pra facilitar a vida dela no trabalho
+- É exatamente o tipo de coisa que "precisaria de um dev" — e não precisou
+- Qualquer pessoa que já fez pedido manual no Excel vai entender a dor na hora
 
 ---
 
 ## Possíveis Ângulos
-- A — Revelação: mostra o resultado primeiro, depois conta como fez
-- B — Processo: mostra o caminho desde o problema até a solução
-- C — Comparação: "Antes usava X horas pra fazer isso. Agora: X minutos."
-- D — Desafio: "Me disseram que precisaria de um dev pra isso. Fiz sozinho."
+- A — Amor + tech: *"Criei um sistema pra minha mulher porque ela merecia não perder horas nisso"*
+- B — Problema impossível: *"Esse é o tipo de coisa que todo mundo acha que precisa de um programador"*
+- C — Processo ao vivo: mostrar o sistema funcionando em tempo real
+- D — Escala do problema: *"Um hotel. Dezenas de funções. Centenas de funcionários. Múltiplos modelos. Sem sistema."*
 
-**Ângulo recomendado:** A — revelar o resultado primeiro cria curiosidade imediata. O "como?" é o que segura até o fim.
-
-**[ARTHUR: escolher qual criação usar — idealmente algo que resolva um problema reconhecível]**
+**Ângulo recomendado:** A como gancho emocional + D para estabelecer a escala do problema + C para mostrar a solução.
 
 ---
 
 ## Gancho
-> *"Criei isso [resultado específico] sem saber uma linha de código. Deixa eu te mostrar como."*
+> *"Minha mulher tinha que fazer pedido de fardamento pra um hotel inteiro — dezenas de funções, múltiplos modelos de roupa, sem todos os funcionários contratados ainda. Fiz um sistema pra ela. Sem saber programar. Em [X horas]."*
 
 ---
 
 ## Meio
-- O problema que existia (real, específico)
-- Como tentei resolver antes (ou por que era impossível antes da IA)
-- O processo: como montei o problema pra IA, o que ela perguntou, o que eu ajustei
-- O que deu errado no meio (não esconder — isso humaniza e educa)
-- O resultado final
+- O problema dela: pedido manual, muitas variáveis, margem de erro enorme, tempo perdido
+- Como montei o problema pra IA: as entidades (função, kit, estimativa de headcount, proporção M/F), o que o sistema precisava gerar (pedido consolidado)
+- Mostrar o sistema funcionando: criar uma função, adicionar itens do kit, estimar funcionários, gerar pedido
+- O que deu errado no meio (honestidade — alguma coisa deve ter dado)
+- O resultado: ela abre, lança os dados, clica, tem o pedido
 
 ---
 
 ## Fim + CTA
-> *"Isso levou [tempo real]. O código eu não entendo. O problema eu entendi muito bem. Segue pra ver o próximo — já tenho mais [X] em andamento."*
+> *"O código? Não entendo nada. O problema? Entendi tudo. É disso que se trata. Comenta aqui qual problema você tem que acha impossível de resolver — pode ser o próximo."*
 
-**CTA:** Seguir + comentar qual problema você tem que acha impossível de resolver.
+**CTA:** Comentar com o problema + seguir para ver os próximos.
 
 ---
 
 ## Notas de Produção
-- Mostrar tela do projeto/ferramenta funcionando
-- Pode intercalar câmera e screen recording
-- Duração: 60-120 segundos dependendo da complexidade
+- Mostrar o sistema funcionando na tela — screen recording
+- Intercalar com câmera quando falar da motivação (a mulher)
+- Duração: 60-90 segundos
+- **[Lembrete: mencionar quanto tempo levou pra construir]**

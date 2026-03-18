@@ -30,8 +30,11 @@ Arthur não está criando um canal de IA. Está criando a prova viva de uma cren
 - O momento exato da decisão — não o contexto, a faísca
 - O que mudou internamente naquele instante
 
-**Rascunho de estrutura (Arthur vai preencher com a cena real):**
-> "Já quebrei três vezes. Perdi mais de 200 mil reais num negócio de alface hidropônico — sim, alface. Mas o momento que mudou tudo não foi quando vi o dinheiro ir embora. Foi quando [CENA ESPECÍFICA]. Naquele momento entendi que não podia mais errar só por mim. Tinha [ela/nós/a vida que quero construir]. E foi aí que decidi: dessa vez, ao vivo, com IA, sem esconder os tombos."
+**A cena real (relatada por Arthur):**
+> Olhei as contas. Vi as dívidas. Calculei o que ganhava. Ganhava menos da metade do que precisava só pra começar a sair do buraco. Não foi um número abstrato — foi uma matemática que não fechava. E aí veio: não tô fazendo isso só por mim. Tenho uma mulher. Primeiro ano juntos. Eu precisava que esse número fechasse.
+
+**Como transformar isso em cena no vídeo #1:**
+Não resumir — reconstituir. Onde você estava quando abriu as contas? Era noite? Você estava sozinho? O que você sentiu quando viu que ganhava menos da metade? Esse detalhe sensorial é o que faz a história grudar.
 
 ---
 
